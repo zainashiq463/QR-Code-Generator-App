@@ -1,12 +1,5 @@
 🔳 QR Code Generator with Python & Streamlit
 
-Youtube Tutorial:
-https://youtu.be/ccbzvKcoaps
-
-Creating Web App With Python Streamlit - Lesson 1
-https://youtu.be/rMLwiVrK3Fw
-
-
 <img width="1189" height="782" alt="Screenshot 2025-09-14 084900" src="https://github.com/user-attachments/assets/552ea8b7-6e3b-49ee-8018-30ca47ae54da" />
 
 A simple and customizable QR Code Generator Web App built with Python and Streamlit.
